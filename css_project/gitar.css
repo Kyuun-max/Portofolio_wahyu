@@ -1,0 +1,74 @@
+body {
+    font-family: 'red hat mono', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+header {
+    background: wheat;
+    box-shadow: #e1c88e 1px 2px 2px ;
+    color: #5f3b3b;
+    padding: 10px 0;
+    text-align: center;
+}
+
+img {
+    
+    width: 100%;
+    height: auto;
+    display: block; 
+
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(154, 37, 37, 0.1);
+}
+
+h1, h2 {
+    font-family: 'Vintage comic', sans-serif
+    
+}
+
+figcaption{
+    font-size: 12px;
+    margin-top: 10px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: wheat;
+    color:  #5f3b3b;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-shadow: #e1c88e 0px 0px 15px;
+}
